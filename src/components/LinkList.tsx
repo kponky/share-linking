@@ -16,6 +16,7 @@ const platforms = [
   "LinkedIn",
   "Facebook",
   "Frontend Mentor",
+  ""
 ];
 
 const LinkList = () => {
